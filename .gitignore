@@ -1,0 +1,40 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.factorypath
+.settings
+.vscode
+.sts4-cache
+
+# jenv
+.java-version
+
+# MacOs
+.DS_Store
+
+# vim
+*.swp
+
+# Dev profile configuration
+application-dev.properties
+application-test.properties
+test-dev.properties
+test-int.properties
+test-staging.properties
+test-prod.properties
+
+# Node
+node_modules/
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
